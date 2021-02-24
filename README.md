@@ -1,1 +1,3 @@
-# ISieti
+# ISietí
+
+##Repozitár pre predmet Integrácia Sietí
